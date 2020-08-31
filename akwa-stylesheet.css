@@ -1,0 +1,108 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 0.15em;
+    color: white;
+    line-height: 1.2em;
+    background-image: url("images/background.jpg");
+    background-color: black;
+    max-height: 720px;
+}
+
+#landing{
+    font-family: 'Poppins', sans-serif;
+    max-width: 850px;
+    min-width: 720px;
+    height: 680px;
+    margin: 30px auto 30px auto;
+    border: 1px solid rgb(255, 224, 50);
+    background-color: rgb(29, 29, 29);
+    opacity: 0.95›;
+    box-shadow: 0px 0px 10px black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#page{
+    font-family: 'Poppins', sans-serif;
+    max-width: 850px;
+    min-width: 720px;
+    height: 2200px;
+    margin: 30px auto 30px auto;
+    border: 1px solid rgb(255, 224, 50);
+    background-color: rgb(29, 29, 29);
+    opacity: 0.95›;
+    box-shadow: 0px 0px 10px black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#logo{
+    width: 397px;
+    margin: 25px auto 30px auto;
+    padding: 0px;
+}
+
+#small{
+    width: 120px;
+    margin: 0px auto 0px auto;
+}
+
+
+ul{
+    width: 570px;
+    padding: 15px;
+    margin: auto;
+    text-align: center;
+    border-top: 1px solid rgb(255, 224, 50);
+    border-bottom: 1px solid rgb(255, 224, 50);
+}
+
+li{
+    display: inline;
+    margin: 20px;
+}
+
+p{
+    margin: 10px auto 35px auto;
+    text-align: center;
+}
+
+p.one
+{
+    margin: 35px auto 35px auto;
+    text-align: left;
+    width: 580px;
+    height: 1800px;
+    overflow: scroll;
+    border: rgb(61, 61, 61) 1px solid;
+    padding: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+p.two{
+    border: rgb(61, 61, 61) 1px solid;
+}
+
+p.three{
+    margin: 5px auto 10px auto;
+    color: white;
+}
+
+b
+{color: orange;}
+
+img{
+    margin:15px auto 15px auto;
+}
+
+a{
+    color: rgb(190, 30, 45);
+    text-decoration: none;
+
+}
+
+a:hover, a.on, a:active{
+    color: orange;
+
