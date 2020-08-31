@@ -4,7 +4,7 @@ body{
     letter-spacing: 0.15em;
     color: white;
     line-height: 1.2em;
-    background-image: url("images/background.jpg");
+    background-image: url("Images/background.jpg");
     background-color: black;
     max-height: 720px;
 }
